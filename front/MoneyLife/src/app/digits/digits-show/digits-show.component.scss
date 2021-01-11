@@ -1,0 +1,19 @@
+.box {
+  width: auto;
+  padding: 5px;
+  color: black;
+  border-radius: 4px;
+  .title {
+    display: flex;
+    h3 {
+      margin: 0 auto;
+    }
+  }
+  .digits {
+    display: flex;
+    margin-top: 10px;
+    h2 {
+      margin: 0 auto;
+    }
+  }
+}
